@@ -6,4 +6,6 @@ I'm Héctor Ulises Escoto González, i am an engineering student in ITESO that i
 
 Change #1: Changes made in Notebook
 
+Change #2: Changes made in notebook
+
 #1 18/08/2017
